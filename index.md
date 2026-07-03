@@ -1,4 +1,4 @@
-# Welcome to my blog
+# Welcom to my blog
 <img width="350" height="350" alt="photo_2023-10-19_11-31-42" src="https://github.com/user-attachments/assets/c0258105-20ef-4ac5-8b60-2e2cea952453" align="right"/>
 
 ## My name is Arlee Lempan
